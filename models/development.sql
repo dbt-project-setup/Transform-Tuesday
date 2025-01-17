@@ -1,4 +1,4 @@
--- my first model in this project
+-- I live for code conflicts
 
 SELECT
     *
